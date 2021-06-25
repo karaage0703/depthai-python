@@ -25,3 +25,4 @@ with dai.Device() as device:
         print('Calibration write succesfull')
     else:
         print('Calibration Flash Failed!!')
+        
